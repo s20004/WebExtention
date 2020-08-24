@@ -1,0 +1,36 @@
+@charset "utf-8";
+body {
+    font-family: sans-serif;
+}
+h1.main-style {
+    padding: 0.5em;
+	color: #010101;
+	background: #20539e;
+	border-bottom: solid 3px #516ab6;
+}
+h2.main-style {
+    margin-top: 22px;
+	margin-bottom: 15px;
+	position: relative;
+	padding: 10px;
+	background: #e0edff;
+}
+h3.main-style {
+    margin-top: 2.5em;
+	margin-bottom: 2em;
+	position: relative;
+	padding: 0.6em;
+	background: #e0edff;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.gakka p {
+    padding: 16px;
+    border: 1px solid #095cdc;
+}
+.cyber {
+    list-style-type: none;
+}
+
