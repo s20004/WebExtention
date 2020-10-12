@@ -2,7 +2,7 @@
 大城はな
 
 ## 課題
-1. Chapter01 「[windows環境でHTMLを作ってみよう](chapter01/ch01-firsthtml-win.html)」
+1. chapter01 「[windows環境でHTMLを作ってみよう](chapter01/ch01-firsthtml-win.html)」
 2. Chapter02 「[Linux環境でHTMLを作ってみよう](chapter02/ch02-firsthtml-win.html)」
 3. Chapter03 「[マークアップの考え方](chpter03/ch03-markuotag1.html)」
 4. Chapter04 「[自己紹介ページ](chapter04/ch04-markuptag2.html)」
